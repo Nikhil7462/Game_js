@@ -6,7 +6,6 @@
 h1{
     background-color: grey;
     color: black;
-   
     height:4rem;
     line-height: 4rem;;
 }
@@ -14,7 +13,6 @@ h1{
     height: 180px;
     width: 180px;
 }
-
 img{
     height: 160px;
     width: 160px;
@@ -40,15 +38,13 @@ img{
 }
 #u,#c{
     font-size: 30px;
-    
-}
+    }
 #m1{
     font-size:2rem;
     background-color: black;
     color: white;
     display: inline;
     border-radius: 5px;
-
 }
 .mess{
     margin-top: 4rem;
