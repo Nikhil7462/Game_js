@@ -40,6 +40,7 @@ let game= (uid) => {
 
 
 
+#Add the Event listner
 
 chooses.forEach((choose)=>{
     console.log(choose);
